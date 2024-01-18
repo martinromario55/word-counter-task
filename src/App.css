@@ -80,3 +80,11 @@ p {
 a {
   text-decoration: none;
 }
+
+.pnfimage {
+  margin: 70px auto;
+}
+
+.pnfimage img {
+  width: 100%;
+}
